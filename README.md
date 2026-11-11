@@ -1,4 +1,6 @@
 # Experiment--02-Experiment-1-8086-Architecture-and-Register-Operations
+
+LABALA SREESANTH - RA2511030010316
  
 ## Aim
 
@@ -199,18 +201,5 @@ Write an 8086 assembly language program to exchange the contents of two
 The 8086 architecture and the functions of the BIU and EU were studied.
 The assembly programs demonstrate 16-bit register transfer with memory
 storage and the exchange of two 16-bit memory values.
-
-
-## Viva Voce Questions
-
-1.  What is the function of the BIU in the 8086?
-2.  What is the role of the EU?
-3.  Why does the 8086 use a 6-byte instruction queue?
-4.  What is the maximum physical memory address space of the 8086?
-5.  What is the difference between a register and a memory variable?
-6.  Does the `MOV` instruction change the source operand?
-7.  Why are registers used when exchanging two memory values?
-8.  What is the purpose of the DS segment register?
-
  
 ` 
