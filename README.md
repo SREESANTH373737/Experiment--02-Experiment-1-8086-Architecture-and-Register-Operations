@@ -194,6 +194,7 @@ Write an 8086 assembly language program to exchange the contents of two
     results.
 ## Screenshot of the results 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3a556b7d-f735-4452-bfc3-575f8fa7d614" />
 
 
 ## Result
